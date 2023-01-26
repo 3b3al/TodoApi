@@ -1,3 +1,3 @@
 # TodoApi
 
-Is a simple-CRUD-API that i can Call an ASP.NET Core web API with JavaScript
+Is a simple-ASP.NET Core-CRUD-API that i can Call it with JavaScript
